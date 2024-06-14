@@ -1,1 +1,1 @@
-this is my first CSS project
+This is a project I made with the help of love babber youtube channel
